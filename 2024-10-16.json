@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Powell",
+  "age": 60,
+  "address": {
+    "street": "Oppu Street",
+    "city": "Taphoike",
+    "state": "MN",
+    "zip": "27198"
+  },
+  "contact": {
+    "phone": "(832) 766-8962",
+    "servicePhone": "800462626"
+  },
+  "birthday": "1984-04-06T02:20:28.242Z",
+  "ip": "118.57.42.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Lumhas ilsus awkor juk oljen doczogbul cupfiwam dulilula zow tamev ribuwot pub. Rig uzovivhu akowo ginhephon gi arelu bugkebta biis kiguloz megkelo tulpivop giz zik nudez ji zuedru. Jedoti uso faawaba gegi gunujbu bu eto buspuhnor so fulujdoj sefot isoibi.",
+    "bio": "Kuda wohumew rarzopeb denoz jo la wohe fuzen od mudta issa bovutuj. Mem cozebki ha vel wuhkezhe juukaniw zoj uza sitipa heif vuuchoc tekepej jeukdab. Nobur zauluv sisal homlo lereba ule avvola vutze vura jojrucwot kom nep ziwe. Demonif citun dauze is vu odesihof idozaziz pokuhegi umi zi bezur totunus zumme mewiw. Pu ib ozujoge azu suj kus fiunisah ogbu ne jaw awo pa fu wuc."
+  },
+  "apiKey": "acd7c71b41f866fed01268d9a3353abbfd45e09ed30547d0e2d8c0682b36e192",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
