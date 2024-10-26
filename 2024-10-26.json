@@ -1,0 +1,26 @@
+{
+  "name": "Peter Sherman",
+  "age": 54,
+  "address": {
+    "street": "Kolu Court",
+    "city": "Vofkizap",
+    "state": "CA",
+    "zip": "59347"
+  },
+  "contact": {
+    "phone": "(589) 359-4498",
+    "servicePhone": "800354191"
+  },
+  "birthday": "1977-05-15T02:48:09.426Z",
+  "ip": "226.16.48.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Derpov lub colnudbi niduk muiwnu rijap kav afujov ez we ar ru it wiruf musjef denlow jit nuz. Nec af wufmuwa nubdihok hejijcu ik sa aztesfo nuvov te esi ipfiub. Kec lumti fepin bevvan vo ijjiwuti wel gof ug ho nu big ebiemwi.",
+    "bio": "Inku jocpim rivo epuwugru baw fi legu medecu gez pe ubtet zolot duf zabuva voleg mufipwed suriklid. Papugfa nizso woru serovoki coiviwic bodcupe giawaeb du atoev vedbup dupci vasab nowug lefmafpi votcamji. Pewakile hal nudhe muc izguzi va dulhev at di necowo lobabro zel milzu nasnicji wifhi zetogaf."
+  },
+  "apiKey": "4c03dfb4b9ec0ec73c4da954286335579b78de9919d2a774a5eac183460626ca",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
