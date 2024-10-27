@@ -1,0 +1,26 @@
+{
+  "name": "Mark Hicks",
+  "age": 32,
+  "address": {
+    "street": "Ulju Road",
+    "city": "Upuromil",
+    "state": "NE",
+    "zip": "42000"
+  },
+  "contact": {
+    "phone": "(439) 621-4568",
+    "servicePhone": "800628676"
+  },
+  "birthday": "1974-01-20T08:00:41.502Z",
+  "ip": "129.70.214.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Tes fi tifmo nohwozja bidazkaz bedsovit rog we divumep hasewal eciegidi radlipjum ufe lacpig. Va etoda mavka tepawkab ki senensed rekas guple guzu kohiva fauzo ragefo ibawno lowse fu. Fovdo jopfovdu cizmaid bo pirvejuk umafaje lisje id donruwe odfadfaf cippuaso tigfa lib irgiiz noz rod.",
+    "bio": "Fusojni riger oka awubulap he ko goro koiv ew lezmap mog tu je uwe denikkiw kiwa. Husolawol wev kenuep fujaj tepju hiaka tosujbu ijpigop wu odife miaz duedu cokzel jueh. Lonunpec bi dovhun sustaz ko kiitbel mefige muzbam bi gindiwhep ozsiz unzuaj es cezuble finih sehhifser ake owuwol. Gupolo ihebiv itereni las wura vumehkem ti elcob ojhi bewke ohhokuj woabzi kalufu. Mutke kuem zakasi juvkesiho nesume puawas meachi ibobutimo heafugit cu mibow oca sukpoju luselap evo. Wirju rodevju be lubzevas foc ino ni jigpo zalet bokivjid lo calsid pugso hecem cice kovodut ji job."
+  },
+  "apiKey": "51b8ba3d342df16089686657aa5eba31167f63a4824f5b3935199d8cc422fa00",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
