@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Dunn",
+  "age": 37,
+  "address": {
+    "street": "Turtu Grove",
+    "city": "Biikbo",
+    "state": "KS",
+    "zip": "82885"
+  },
+  "contact": {
+    "phone": "(734) 293-7218",
+    "servicePhone": "800984977"
+  },
+  "birthday": "1996-01-25T04:38:58.890Z",
+  "ip": "144.68.226.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Up fapwewag monet peuf cafa vol wavep mopij la semubhe golser ivarepi egnozu viw ko. Okwojud javupo zehdoz jasfivbog la hibudi ocamudle micdepbo afimemvah taddib mev pob nojnog. Ejunazma uguj bow kut netpenomu cilon wo agko bul watonuvem kuwej nagelem tezzi hodus jahicu dipizejoc. Du nudteni daocagow juboc wecas sew mizhikva tab na el gihvi nuvjir vutsev selup hazep bone nusel. Jemnu ojzup egbe wi bidpow jo kic ujunemmuc kehif ola rurutpet umoze ro pisufwu wimcizud.",
+    "bio": "Ifbec uzban mas opit edtin rihverel uke jimhe mefupu ob for rup. Ike jo edara dopinav getujaw marojus vu dicustu mahkonhic hinigej dot giv ako. Cedonek wilu cud unu noerufe naghe rubic ukuguet ojte orvate vivpe amouf buje jagu hizehu hibis po. Gi edi wuweuba basav eke cidkoj judezpu esusarcis nu zamuhga suh fazji kopram iku mip maatvo olokan eca."
+  },
+  "apiKey": "744dac429e72dabc372799b539be5a7c405c9afb2c5ce4c412b98c34cd1f6b33",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
