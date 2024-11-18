@@ -1,0 +1,26 @@
+{
+  "name": "Willie Garcia",
+  "age": 44,
+  "address": {
+    "street": "Ahdil Extension",
+    "city": "Cunreezu",
+    "state": "HI",
+    "zip": "75353"
+  },
+  "contact": {
+    "phone": "(989) 835-3414",
+    "servicePhone": "800485511"
+  },
+  "birthday": "1982-05-01T10:39:22.714Z",
+  "ip": "125.175.9.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Nekun toz han rufaho ov eruniw beg uwu ba jufehis kevkek gu. La sissalges funru zaz aruepefub aw vivaze poraag zavkin jiwem moaco goz. Mi jipradi siszoh filkir ur gu vapci vabi rospag oj sojrom enomusug ruzucjac vitre jatro ivecohim hunet cev. Cure nutaje dowod kem nos fi tem cola zol umikagfe huzotaan gautucav co te lawlo satuv uwanif. Cuak donpit ikomicgo lenuv ma volhi osiisekev heget rumeblo ponicev cowu pu fa. Dopit tog zuzoov moj lo aje puctapip iteratut ej lat huasa re.",
+    "bio": "Tor bahgiz emo kewor fo ziero sar tu winjifpa el zipog takagog mioz mi tazmegrug bewic. Apiteod tusiba feewovo duajuvo ko fibgiz cetafle reh lag az ojkubof dovavu ev taf odobad cof ag liiwigil. Usuwatsi oz kanan ve mokihep zido jekac cic ranon caw fan liwfi dok vudip. Noh baati ven le sajtorde me wozojemi emoc etwadzit odoase cup acbosa us cesajpe cu hudizmib zazuztez."
+  },
+  "apiKey": "63641f6d05a8412f5a58e41ac443969b29e05bc6ac095d3cea10ffb0df993821",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
