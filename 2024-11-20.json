@@ -1,0 +1,26 @@
+{
+  "name": "Christine Cunningham",
+  "age": 62,
+  "address": {
+    "street": "Fajag Turnpike",
+    "city": "Binhidik",
+    "state": "MA",
+    "zip": "52682"
+  },
+  "contact": {
+    "phone": "(989) 386-8324",
+    "servicePhone": "800423522"
+  },
+  "birthday": "1996-05-17T08:12:23.176Z",
+  "ip": "50.209.227.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Owolurot oh ajejucut migki ug lalatge sabuhe emu eh tieli wusje uvjov. Ujufagaba so ikvan tu ikmuiw evaj vuhhov mojpi fozji vok willeek ehefuag dekazure ki gi cuwrotref. Bo sonhuozu ruz fahuec epje lazaf wolmot gaef livovo lowa cefojad ra sa oc aglek. Sefeid filcuv fetwises pimkipa cahofha avo ceriv elibijah upokouni ibuur cobvupcu uke. Tokemdor uhjaoco denibi tef ovoceg fojuhkug oz fasu tewo fowu vik haor mer vapuhe moz ahe. Umtunha ravepozun kavdufu vih duwopiub dur ohi solifeg zetwikhot pe hah nogpezgot dote mu toeftu nug.",
+    "bio": "Loapize losafla puzumem jovusuj gafipdo fiufdu ahcij foci ole jod lihi walommeh ve ce dajiv. Levi owisu suakcaj vezdag wefpa mait ba gef adu debe curir jiaci hatazu rokti cem. Tuvnakag hoza ju emru copu deg tadaj wakwonbu je nokabhi je uw uke cuebu bagubevi hon isajose bowoj."
+  },
+  "apiKey": "70d507bc92690a674c9722a57367307badadd13dcad75c3896b7c11604561ac5",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
