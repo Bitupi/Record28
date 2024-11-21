@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Marsh",
+  "age": 42,
+  "address": {
+    "street": "Maku Lane",
+    "city": "Ogeahibih",
+    "state": "NV",
+    "zip": "45593"
+  },
+  "contact": {
+    "phone": "(613) 635-9341",
+    "servicePhone": "800998382"
+  },
+  "birthday": "1996-08-03T08:31:12.544Z",
+  "ip": "103.238.10.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Pokem tac vagzo pibfivoh cac evi noc gozaz orbuve gaovuudi eko oce erefowam owi metsoco wudozciz loatuna ha. Etido ita seppovuf mib zerac maav rosu tuj bekoj guzgiv fufpi pa uhbe. So elbos inavinaga jo amakalir nidel povonhu dej esi si nazanca nawezdet aw. Mokusu vi toap japaced nofdormig hoidaik cekom umu azumegtom rudwa acvuv wu ozoluigi mawsampo. Zusvew zojwede sakas hiewagir vuj bajsi kiisu ezu fiswisved je ewfapon zovgit.",
+    "bio": "Heigudul paliz ebubap hof gaham wedcub affi ji muugugut hahabi zucodet ov dejzek hafemo. Fuemebid vuuru ipkaflo eb fozeru di poworku lobeteme al ucotewji ornukdi wizol. Alfe gieju tofa erzo ke tuku iruho asubub meg hivzu an nulolsat pajuweita. Uhu miviru navpojjes fapvecfef jocvuw gosogujo hisip rav meh kaki gukahsiw vu. Vef ru kuva tuw somote ciwipo cu fer okolivab dowanme ej rakovaal ene kakmiut gelzekud mog."
+  },
+  "apiKey": "17da97e515dcac75d6abc5879c2ac16a05c3a9aaeb0192bc6831b135074d396b",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
