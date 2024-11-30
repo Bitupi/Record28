@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Ray",
+  "age": 20,
+  "address": {
+    "street": "Moiti Park",
+    "city": "Fevrajsuz",
+    "state": "MN",
+    "zip": "36952"
+  },
+  "contact": {
+    "phone": "(768) 304-1832",
+    "servicePhone": "800995746"
+  },
+  "birthday": "2000-08-10T12:55:11.652Z",
+  "ip": "87.204.176.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Apilupjis uvumid jup musu coz ato nucdo lehca kiulid koekobu apvuopu dipdozwim jewpurub ficekmu wizjimku wagidaf. Zivu sajabo hojborut bag wognibde eke kitbu mosanme gu naro lawsac wibo. Jilad dapgoj sewes mij seh mo bieheni wap morodbur atroba lukwicev fatoik ek. Bu erezin eloaka ficbir asu wofzaluf bo ku dosjowjug ev ivsa gu pewjad isruva ilha ofe.",
+    "bio": "Kinas se no ar pi zovun re jil mon va imcoh bemapeda. Wijtu bikujha se fokfaceg fejor pe ekfivne ozesip hurecte ginzu me danle vipab pif sepsa muf. Ukfoh rafim negcepug cabhaniw zecwesbul ladwo rarhaaza igeihediv jisa eglog mudma ocso oku im duutamok."
+  },
+  "apiKey": "44d1150dd911db068687a256c485a0f8aadb7e8479a2084c5a90977e12b3fbd4",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
