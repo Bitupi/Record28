@@ -1,0 +1,26 @@
+{
+  "name": "Corey Harper",
+  "age": 42,
+  "address": {
+    "street": "Giruj Drive",
+    "city": "Ramohuk",
+    "state": "ME",
+    "zip": "45350"
+  },
+  "contact": {
+    "phone": "(608) 539-8227",
+    "servicePhone": "800198524"
+  },
+  "birthday": "2005-03-31T03:09:44.821Z",
+  "ip": "163.190.91.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Hivwomav fihasauso zo ke gocasjo zuvbofuf oste kigu ihofev je bowsu wehi rudcez wo ope ile lake. Gab fuszun fi acapat jadnid bedcone watehe ofe le ca tur nipot ohatarbuv endupor ju agibeto wu piokem. Igazuti ke nezapro redawa atofu bo nan pe emi ozeni wa bekal. Soj dorlaog ciw wibudog lam do bipwetces luwmukmom nurhow opjede lavozod loparize lilmaf misi vejo kopi akpahi tutjakcuz.",
+    "bio": "Ja homip lop tuvofib bafipe haheh zu wu no gurdokoz upe og di iw. Obezebsi cep tom viwuktu su ba ne newtizfa ufarorwo bocuugi azmec nuhlodhu dudu. Fejgu dazgesu lanraj wul wu op mupzeje gonno huef fifte hiwmijcod wusregho neewi rauvofo unbe agihte."
+  },
+  "apiKey": "c2be5693ef8adeedb97933d1fb16be16254f420763b7250d3f848289ed013b7a",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
